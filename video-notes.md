@@ -20,7 +20,7 @@
     - [Netflix as Public Program Example](#netflix-as-public-program-example)
 - [Conclusion](#conclusion)
 
-Source Link: https://www.youtube.com/watch?v=ZutwWm2FQp0
+Source Link: [https://www.youtube.com/watch?v=ZutwWm2FQp0](https://www.youtube.com/watch?v=ZutwWm2FQp0)
 ## Introduction
 
 The video introduces the concept of Bug Bounty, a cybersecurity practice where individuals are rewarded for discovering and reporting vulnerabilities in software and systems.  It features an interview with Ben, a full-time Bug Bounty Hunter, who provides insights into making a living from Bug Bounty, common mistakes, and how to get started. The presenter contrasts the fact that in the past, hacking was seen as illegal, now it can be a source of income.
